@@ -11,9 +11,13 @@ Write another short paragraph about a few of your hobbies
 
 [![brown horse with black leather strap](luisa-peter-7Xp9wDCxivc-unsplash.jpg "Elegant warmblood horse: wonderful portrait black background by Luisa Peter")](https://unsplash.com/photos/brown-horse-with-black-leather-strap-7Xp9wDCxivc)
 
+Peter, Luisa. "Elegant warmblood horse: wonderful portrait black background." Unsplash, September 2, 2020, https://unsplash.com/photos/brown-horse-with-black-leather-strap-7Xp9wDCxivc 
+
 
 ## My Favorite Quote
-> use the blockquote syntax to add your favorite quote.
+> All our dreams can come true, if we have the courage to pursue them
+
+**Walt Disney**
 
 On the next line, credit the person who said it. Make the person's name **bold** and the source (e.g., a book or movie) italic.
 
