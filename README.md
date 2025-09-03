@@ -6,7 +6,7 @@ This class is about designing a good website.
 
 This will now be a second paragraph on the site.  
 
-## This is a subsection{#subsection-example}
+## This is a subsection {#subsection-example}
 We can add emphasis to text with *asterisks* to create italics or **bold** text ***both***. 
 
 ## Example quatation
@@ -38,6 +38,5 @@ We can add emphasis to text with *asterisks* to create italics or **bold** text 
 [Class3](class3)
 
 [subsection example](#subsection-example)
-
 
 
