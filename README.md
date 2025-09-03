@@ -34,6 +34,7 @@ We can add emphasis to text with *asterisks* to create italics or **bold** text 
 
 ## Links to other places
 [Google](https://www.google.com/)
+
 [Class3](class3)
 
 
