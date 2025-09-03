@@ -1,5 +1,6 @@
 # Catherine Barstow
-write a short paragraph about yourself
+I was born and raised in Potsdam, NY.  I am currently 21 years old.  I am just starting my senior year of college at St. Lawrence University, where I am majoring in economics.  My favorite animal is horses, because I love spending my time with the two horses that I own.  I love to keep myself busy and have multiple jobs, one is at my family's buisness, a local movie theater, as well as a coach at a local figure skating club.  
+
 
 ## My Hobbies 
 Write another short paragraph about a few of your hobbies
@@ -8,7 +9,7 @@ Write another short paragraph about a few of your hobbies
 + Horseback riding
 + Hanging out with my friends
 
-![Pretty Horse](luisa-peter-7Xp9wDCxivc-unsplash.jpg)
+[![brown horse with black leather strap](luisa-peter-7Xp9wDCxivc-unsplash.jpg "Elegant warmblood horse: wonderful portrait black background by Luisa Peter")](https://unsplash.com/photos/brown-horse-with-black-leather-strap-7Xp9wDCxivc)
 
 
 ## My Favorite Quote
@@ -21,11 +22,10 @@ On the next line, credit the person who said it. Make the person's name **bold**
 2. Chicken strips of fire
 3. Cranberry mayo turkey sandwich from Johnson grab and go
 
-![green beans are so yummy](pexels-mali-142520.jpg)
 
 
 ## Where to Find Me 
-+ [My GitHub Profile](cabars22)
++ [My GitHub Profile](https://github.com/cabars22)
 + Add a second link to your GitHub pages site for this homework. You may add other links if you wish
 
 
