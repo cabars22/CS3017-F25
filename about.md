@@ -3,7 +3,7 @@ I was born and raised in Potsdam, NY.  I am currently 21 years old.  I am just s
 
 
 ## My Hobbies 
-Write another short paragraph about a few of your hobbies
+I love to spend a lot of my free time riding my two horses that I own.  When Im not at the barn I can usally be found at the ice rink, either coaching or figure skating myself.  I also love to hang out with my friends in my free time.  I love being outside and spending time on the water going boating, jet skiing, and swiming. 
 
 + Figure skating
 + Horseback riding
@@ -17,20 +17,18 @@ Peter, Luisa. "Elegant warmblood horse: wonderful portrait black background." Un
 ## My Favorite Quote
 > All our dreams can come true, if we have the courage to pursue them
 
-**Walt Disney**
+**Walt Disney** *unknown source*
 
-On the next line, credit the person who said it. Make the person's name **bold** and the source (e.g., a book or movie) italic.
 
 ## My Top 3 Favorite Foods
-1. Green Beans
-2. Chicken strips of fire
-3. Cranberry mayo turkey sandwich from Johnson grab and go
-
+1. Apple Cider Donuts
+2. Chicken Strips of Fire
+3. Green Beans
 
 
 ## Where to Find Me 
 + [My GitHub Profile](https://github.com/cabars22)
-+ Add a second link to your GitHub pages site for this homework. You may add other links if you wish
++ [My GitHub Pages](https://github.com/cabars22/CS3017-F25/actions/workflows/pages/pages-build-deployment)
 
 
 
